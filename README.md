@@ -8,11 +8,13 @@ My interest and curiosity in the world of technology and programming have been w
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffc0cb.svg?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/maria-eduarda-lima23/)
 
+## Skills:
+![C++](https://img.shields.io/badge/c++-pink.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 ## Stats:
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marias1lva&layout=donut&bg_color=ffc0cb&title_color=27292e&border_radius=20)
 
-## Skills:
-![C++](https://img.shields.io/badge/c++-pink.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 
 <!--
 **marias1lva/marias1lva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
