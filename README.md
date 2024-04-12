@@ -1,7 +1,8 @@
 ### Hello, World!
 
-Olá! Meu nome é Maria Eduarda, tenho 18 anos e sou estudante de Ciência da Computação na Universidade do Vale do Itajaí. Estou no primeiro semestre e me aprofundando na linguagem de programação C++.
-Meu interesse e curiosidade pelo mundo da tecnologia e programação me acompanham desde a infância e minha paixão pelo aprendizado e pela tecnologia me impulsiona a buscar constantemente novos desafios e a expandir meus conhecimentos.
+Hello! My name is Maria Eduarda, I'm 18 years old, and I'm a Computer Science student at the Universidade do Vale do Itajaí. I'm in my first semester, and I'm diving deeper into the C++ programming language.
+
+My interest and curiosity in the world of technology and programming have been with me since childhood, and my passion for learning and technology drives me to constantly seek new challenges and expand my knowledge.
 
 
 ## Socials:
