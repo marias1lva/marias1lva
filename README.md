@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello, World!
+
+Olá! Meu nome é Maria Eduarda, tenho 18 anos e sou estudante de Ciência da Computação na Universidade do Vale do Itajaí. Estou no primeiro semestre e me aprofundando na linguagem de programação C++.
+Meu interesse e curiosidade pelo mundo da tecnologia e programação me acompanham desde a infância e minha paixão pelo aprendizado e pela tecnologia me impulsiona a buscar constantemente novos desafios e a expandir meus conhecimentos.
 
 <!--
 **marias1lva/marias1lva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
