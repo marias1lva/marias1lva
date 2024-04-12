@@ -7,7 +7,7 @@ Meu interesse e curiosidade pelo mundo da tecnologia e programação me acompanh
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffc0cb.svg?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/maria-eduarda-lima23/)
 
-## Estatísticas
+## Stats:
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marias1lva&layout=donut&bg_color=ffc0cb&title_color=27292e&border_radius=20)
 
 ## Skills:
