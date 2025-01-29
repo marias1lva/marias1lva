@@ -9,8 +9,8 @@ My interest and curiosity in the world of technology and programming have been w
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffc0cb.svg?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/maria-eduarda-lima23/)
 
 ## Skills:
-![C++](https://img.shields.io/badge/c++-pink.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-pink.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-pink.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-pink.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-pink.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-pink.svg?style=for-the-badge&logo=javascript&logoColor=white)
