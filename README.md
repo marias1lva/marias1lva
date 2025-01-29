@@ -15,7 +15,7 @@ My interest and curiosity in the world of technology and programming have been w
 ![JavaScript](https://img.shields.io/badge/javascript-pink.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-pink.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-pink.svg?style=for-the-badge&logo=react&logoColor=white)
-
+![Angular](https://img.shields.io/badge/Angular-pink.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 
 ## Stats:
