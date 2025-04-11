@@ -2,8 +2,6 @@
 
 Hello! My name is Maria Eduarda, I'm 19 years old, and I'm a Computer Science student at the Universidade do Vale do Itajaí. I'm in my third semester.
 
-Currently, I am working as a QA intern at Glok Sistemas, where I am gaining hands-on experience in software testing and quality assurance.
-
 My interest and curiosity in the world of technology and programming have been with me since childhood, and my passion for learning and technology drives me to constantly seek new challenges and expand my knowledge.
 
 
