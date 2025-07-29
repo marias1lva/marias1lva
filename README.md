@@ -1,6 +1,6 @@
 ### Hello, World!
 
-Hello! My name is Maria Eduarda, I'm 19 years old, and I'm a Computer Science student at the Universidade do Vale do Itajaí. I'm in my third semester.
+Hello! My name is Maria Eduarda, I'm 19 years old, and I'm a Computer Science student at the Universidade do Vale do Itajaí. I'm in my fourth semester.
 
 My interest and curiosity in the world of technology and programming have been with me since childhood, and my passion for learning and technology drives me to constantly seek new challenges and expand my knowledge.
 
