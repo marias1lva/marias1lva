@@ -25,7 +25,7 @@ My interest and curiosity in the world of technology and programming have been w
 
 ## Stats:
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marias1lva&layout=compact&theme=dracula&radius=20)-->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marias1lva&layout=donut&theme=dracula&radius=20&token=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)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marias1lva&layout=donut&theme=dracula&radius=20)
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marias1lva&layout=donut&bg_color=000&border_color=30A3DC&title_color=white&text_color=FFF_radius=20)
 
 
