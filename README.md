@@ -4,7 +4,7 @@ Hello! My name is Maria Eduarda, I'm 20 years old, and I'm a Computer Science st
 
 My interest and curiosity in the world of technology and programming have been with me since childhood, and my passion for learning and technology drives me to constantly seek new challenges and expand my knowledge.
 
-Currently, I am working as a Web Development at Inover Tecnologia, where I focus on creating and maintaining web applications using React, Next.js, TypeScript, and Redux. In this role, I collaborate with the team to develop new features, improve usability, and ensure scalable and high-quality solutions.
+Currently, I am working as a Software Development at Inover Tecnologia, where I focus on creating and maintaining web applications using React, Next.js, TypeScript, and Redux. In this role, I collaborate with the team to develop new features, improve usability, and ensure scalable and high-quality solutions.
 
 
 ## Socials:
