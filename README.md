@@ -1,11 +1,10 @@
 ### Hello, World!
 
-Hello! My name is Maria Eduarda, I'm 20 years old, and I'm a Computer Science student at the Universidade do Vale do Itajaí. I'm in my fifth semester.
+Hello! My name is Maria Eduarda, I'm 20 years old, and I'm a Computer Science student at the Universidade do Vale do Itajaí. I'm in my sixth semester.
 
 My interest and curiosity in the world of technology and programming have been with me since childhood, and my passion for learning and technology drives me to constantly seek new challenges and expand my knowledge.
 
-Currently, I am working as a Software Development at Inover Tecnologia, where I focus on creating and maintaining web applications using React, Next.js, TypeScript, and Redux. In this role, I collaborate with the team to develop new features, improve usability, and ensure scalable and high-quality solutions.
-
+Currently, I am working as a Software Development at Inover Tecnologia, where I focus on creating and maintaining web applications using React, Next.js, TypeScript, and Redux. In this role, I collaborate with the team to develop new features, improve usability, and ensure scalable and high-quality solutions. I'm also a member of LAPESP, a university space research league, where I work on the telemetry module for a CubeSat satellite project.
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-lima23/)
@@ -25,6 +24,7 @@ Currently, I am working as a Software Development at Inover Tecnologia, where I 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
