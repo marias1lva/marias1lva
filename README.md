@@ -1,6 +1,6 @@
 # Hi, I'm Duda 👋🛰️
 
-I'm a Computer Science student at UNIVALI who builds web apps at [Inover](https://github.com/dev-inover) with React, Next.js, TypeScript and Redux.
+I'm a 6th-semester Computer Science student at Universidade do Vale do Itajaí (UNIVALI) who builds web apps at [Inover](https://github.com/dev-inover) with React, Next.js, TypeScript and Redux.
 
 On the space side, I'm one of the telemetry managers at [LAPESP](https://github.com/LAPESP), my university's space research league, working on the part of the satellite that sends data back to Earth. I'm also a research scholar at **OESC**, the Santa Catarina Space Economy Observatory, a SpaceLab/UFSC project funded by FAPESC, where my research focuses on space systems, telecommunications and ground stations.
 
