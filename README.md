@@ -1,55 +1,44 @@
-### Hello, World!
+# Hi, I'm Duda 👋🛰️
 
-Hello! My name is Maria Eduarda, I'm 21 years old, and I'm a Computer Science student at the Universidade do Vale do Itajaí. I'm in my sixth semester.
+I'm a Computer Science student at UNIVALI who builds web apps at [Inover](https://github.com/dev-inover) with React, Next.js, TypeScript and Redux.
 
-My interest and curiosity in the world of technology and programming have been with me since childhood, and my passion for learning and technology drives me to constantly seek new challenges and expand my knowledge.
+On the space side, I'm one of the telemetry managers at [LAPESP](https://github.com/LAPESP), my university's space research league, working on the part of the satellite that sends data back to Earth. I'm also a research scholar at **OESC**, the Santa Catarina Space Economy Observatory, a SpaceLab/UFSC project funded by FAPESC, where my research focuses on space systems, telecommunications and ground stations.
 
-Currently, I am working as a Software Development at Inover Tecnologia, where I focus on creating and maintaining web applications using React, Next.js, TypeScript, and Redux. In this role, I collaborate with the team to develop new features, improve usability, and ensure scalable and high-quality solutions. I'm also a member of LAPESP, a university space research league, where I work on the telemetry module for a CubeSat satellite project.
+I like bold interfaces, low-level puzzles and projects with a bit of personality.
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-lima23/)
+## 🧰 Stack
 
-## Skills:
-<!--![AssemblyScript](https://img.shields.io/badge/assembly-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)-->
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%23E50695.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-31C48D?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-5C2D91?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-324FFF?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+**Web, my daily driver**
 
+[![Web stack](https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,nodejs,bun,angular,html,css)](https://skillicons.dev)
 
+**Low-level, embedded & everything else**
 
+[![Other stack](https://skillicons.dev/icons?i=c,cpp,java,cs,py,flutter,dart,git,linux,figma)](https://skillicons.dev)
 
-## Stats:
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marias1lva&layout=compact&theme=dracula&radius=20)-->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marias1lva&layout=donut&theme=dracula&radius=20)
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marias1lva&layout=donut&bg_color=000&border_color=30A3DC&title_color=white&text_color=FFF_radius=20)
+## 🛰️ Mission control
 
+<img src="assets/mission-control.svg" width="100%" alt="Mission control: telemetry subsystem at LAPESP (KiCad PCB, STM32F411 + FreeRTOS firmware, LoRa downlink), missions Ibeji and Qubit-II, LASC 2026, and research scholarship at OESC (SpaceLab/UFSC, funded by FAPESC)" />
 
+<details>
+<summary><b>📡 What I actually do up there</b></summary>
+<br/>
 
+- Design the telemetry board in **KiCad**: LoRa radio, SPI flash and the connectors to the rest of the satellite
+- Write the firmware in **C on an STM32F411 with FreeRTOS**
+- Worked on the **Ibeji** and **Qubit-II** missions and was part of the LAPESP delegation at **LASC 2026**
 
-<!--
-**marias1lva/marias1lva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</details>
 
-Here are some ideas to get you started:
+## 📊 Languages I use the most
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marias1lva&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=FF6FB5&text_color=8b949e&card_width=420" alt="Most used languages" />
+
+## 💬 Say hi
+
+Feel free to reach out in **Portuguese** or **English** 🇧🇷 🇺🇸
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-lima23)
+[![Email](https://img.shields.io/badge/Email-FF6FB5?style=for-the-badge&logoColor=white)](mailto:mariaesilva2308@outlook.com)
+
+<sub>*see you in orbit* 🪐</sub>
