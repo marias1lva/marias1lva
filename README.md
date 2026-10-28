@@ -4,7 +4,7 @@ I'm a 6th-semester Computer Science student at Universidade do Vale do Itajaí (
 
 On the space side, I'm one of the telemetry managers at [LAPESP](https://github.com/LAPESP), my university's space research league, working on the part of the satellite that sends data back to Earth. I'm also a research scholar at **OESC**, the Santa Catarina Space Economy Observatory, a SpaceLab/UFSC project funded by FAPESC, where my research focuses on space systems, telecommunications and ground stations.
 
-I like bold interfaces, low-level puzzles and projects with a bit of personality.
+I like bold interfaces, low-level puzzles and projects with a bit of personality. You can see some of them at **[mariaeduarda.dev](https://www.mariaeduarda.dev)**.
 
 ## 🧰 Stack
 
